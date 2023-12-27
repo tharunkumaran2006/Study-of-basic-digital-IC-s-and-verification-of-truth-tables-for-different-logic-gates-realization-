@@ -1,4 +1,3 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 # Name: Tharun V K 
 # RegisterNumber:23003686
 # EX-01 : Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
