@@ -66,9 +66,26 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 ## Output:
-## RTL
-![Screenshot 2023-12-19 190248](https://github.com/tharunkumaran2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151625188/e52c3e0c-e923-4e96-8289-2e6ad4352fb5)
+# Program: 
 
+![image](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/75efa55a-afe7-4db8-969b-2a7472365403)
+
+
+
+
+# RTL:
+![image](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/b83fc236-e175-4a3e-9939-92fcc877e599)
+
+
+
+# Truthtable:
+
+![Logic gate](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/354f8b19-faa3-4b66-afc6-8ae1296ec116)
+
+
+# Output wave form:
+
+![Wave_form](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/d37ef280-3e62-4aa4-9041-73071d87e29a)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
