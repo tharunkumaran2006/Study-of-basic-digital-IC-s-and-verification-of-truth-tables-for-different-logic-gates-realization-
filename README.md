@@ -1,4 +1,7 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# Name: Tharun V K 
+# RegisterNumber:23003686
+# EX-01 : Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 # AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -60,9 +63,6 @@ Check all the gates following the same procedure.
 # Program: 
 
 ![image](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/75efa55a-afe7-4db8-969b-2a7472365403)
-# Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-# Developed by: Tharun V K 
-# RegisterNumber:23003686
 
 
 
