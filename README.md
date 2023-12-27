@@ -79,5 +79,5 @@ Check all the gates following the same procedure.
 
 ![Wave_form](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/d37ef280-3e62-4aa4-9041-73071d87e29a)
 
-Result:
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
